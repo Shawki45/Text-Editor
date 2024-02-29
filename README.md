@@ -8,7 +8,7 @@
 ## Project links
     - https://shawki45.github.io/Text-Editor/
     - https://text-editor-99vd.onrender.com
-    
+    - https://github.com/Shawki45/Text-Editor.git
 
 
 
