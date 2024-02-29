@@ -6,6 +6,11 @@
 
 
 ## Project links
+    - https://shawki45.github.io/Text-Editor/
+    - https://text-editor-99vd.onrender.com
+    
+
+
 
 ## Sources
     - Instructors and tutors.
